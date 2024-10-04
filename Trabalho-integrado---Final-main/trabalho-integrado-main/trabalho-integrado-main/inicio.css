@@ -1,9 +1,0 @@
-
-        .imagem-enquadrada {
-            border: 5px solid #267339; /* Borda verde de 5px */
-            padding: 10px; /* Espaço interno */
-            margin: 20px; /* Espaço externo */
-            border-radius: 10px; /* Cantos arredondados (opcional) */
-            max-width: 500%; /* Responsividade */
-            height: auto; /* Mantém a proporção */
-        }
